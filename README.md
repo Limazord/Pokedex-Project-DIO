@@ -1,8 +1,7 @@
 # Mateus Silva - Pokedex
 
-Projeto em Javascript, HTML e CSS para Listagem de pokemón da DIO.
+Projeto em Javascript, HTML e CSS para Listagem de pokemón da Digital Innovation One - DIO. 
 
-O projeto é um fork realizado do bootcamp Orange Tech+, da Digital Innovation One - DIO.
 
 Neste projeto, foram utilizadas:
 
